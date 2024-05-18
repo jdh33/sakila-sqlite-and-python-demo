@@ -1,0 +1,16 @@
+name: sakila-sqlite-demo
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - pandas
+  - seaborn
+  - scikit-learn
+  - jupyterlab
+  - jupyterlab_widgets
+  - ipywidgets
+  - statsmodels
+  - kaggle
+  - plotly
+  - nodejs
+  - pyarrow
